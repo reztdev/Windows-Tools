@@ -62,6 +62,8 @@ A comprehensive Windows system management tool developed by **reztdev** that pro
 #### Ghost ToolBox (More Features)
 - Author : https://github.com/Batlez/Ghost-Toolbox
 
+#### More tools and features: Soon
+
 ## 🛡️ Security Features
 
 ### License Protection
@@ -122,6 +124,7 @@ The application provides detailed logging for all operations:
 
 - **Developer**: reztdev
 - **GitHub**: [https://github.com/reztdev](https://github.com/reztdev)
+- **Email**: ryzkireztdev@gmail.com
 - **License Support**: Provide your hardware serial number for license key requests
 
 ## ⚖️ Disclaimer
